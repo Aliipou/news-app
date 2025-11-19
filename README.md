@@ -13,7 +13,7 @@ A sleek, terminal-based news aggregator that provides real-time access to global
 - **Browser Integration**: Open articles directly in your default browser
 - **Sleek UI**: Beautiful terminal interface with colors, tables, and panels
 
-## Screenshots
+## 
 
 The application features:
 - Colorful ASCII art header
