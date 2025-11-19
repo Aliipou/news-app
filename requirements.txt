@@ -1,0 +1,6 @@
+requests==2.31.0
+python-dotenv==1.0.0
+rich==13.7.0
+prompt-toolkit==3.0.43
+pytest==7.4.3
+pytest-mock==3.12.0
