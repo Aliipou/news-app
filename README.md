@@ -34,7 +34,7 @@ The application features:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/news-dashboard.git
+git clone https://github.com/aliipou/news-dashboard.git
 cd news-dashboard
 ```
 
